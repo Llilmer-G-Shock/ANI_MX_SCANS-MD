@@ -1,18 +1,3 @@
-*_1.-_* <a href="https://chat.whatsapp.com/L4VRAzaYc11D4LSpt8rB9W" target="blank"><img src="https://img.shields.io/badge/𝕃𝕠𝕓𝕓𝕪_𝕕𝕖_𝕆𝕥𝕒𝕜𝕦𝕤_𝕋𝕠𝕘𝕖𝕥𝕙𝕖𝕣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-*_2.-_* <a href="https://chat.whatsapp.com/H0SheP7ippc1dF9uxL04Gt" target="blank"><img src="https://img.shields.io/badge/ℂ𝕒𝕗𝕖𝕔𝕚𝕥𝕠_ℍ𝕠𝕣𝕚_𝕊𝕒𝕟𝕕𝕚𝕒🍉☕🥢-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="http://wa.me/5215533827255" target="blank"><img src="https://img.shields.io/badge/𝓡𝓮𝔂_𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-
-- APOYO AL PROYECTO DE TRADUCCION 👺👌🏼 [Aqui](https://www.paypal.me/AMxScan)
-
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- EDICIÓN DE TEXTO PLANO SIN NINGUNA CLASE DE TIPOGRAFÍA PARA MEJOR COMODIDAD VISUAL
-
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/ReyEndymion/ANI_MX_SCANS-MD/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ReyEndymion/ANI_MX_SCANS-MD/blob/master/config.js)
 
 
@@ -62,11 +47,5 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
 - ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- 🌎ANI MX SCANS🌏 NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
+- OKARUN-MD NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 ```
-
-## `EDITOR Y PROPIETARIO DEL BOT` 
-<a href="https://github.com/ReyEndymion"><img src="https://github.com/ReyEndymion.png" width="250" height="250" alt="ReyEndymion"/></a>
-
-`ANI_MX_SCANS-MD _ By Rey Endymion`
-
