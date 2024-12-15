@@ -1,20 +1,10 @@
-# 🌎 🌎ANI MX SCANS🌏 🌏
-Bot promocional del proyecto 🌎ANI MX SCANS🌏 by ㄖㄒ卂Ҡ凵丂 ㄒㄖᎶ乇ㄒ卄乇尺
-
-UN AGRADECIMIENTO MUY ESPECIAL A MI MAESTRO [@BrunoSobrino](https://github.com/BrunoSobrino) QUÉ ME AYUDÓ A DARLE VIDA A MIS BOTS.
-(El otro bot es privado solo este se conoce entrando a los siguientes grupos y contestando una pequeña entrevista dentro de ellos para entrar al grupo principal:
-
 *_1.-_* <a href="https://chat.whatsapp.com/L4VRAzaYc11D4LSpt8rB9W" target="blank"><img src="https://img.shields.io/badge/𝕃𝕠𝕓𝕓𝕪_𝕕𝕖_𝕆𝕥𝕒𝕜𝕦𝕤_𝕋𝕠𝕘𝕖𝕥𝕙𝕖𝕣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 *_2.-_* <a href="https://chat.whatsapp.com/H0SheP7ippc1dF9uxL04Gt" target="blank"><img src="https://img.shields.io/badge/ℂ𝕒𝕗𝕖𝕔𝕚𝕥𝕠_ℍ𝕠𝕣𝕚_𝕊𝕒𝕟𝕕𝕚𝕒🍉☕🥢-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 👑 PARA CUALQUIER DUDA QUE PUEDA SURGIR CON ESTAS EDICIONES DEL BOT (INCLUYENDO FALTAS DE ORTOGRAFIA :v), CONTACTANOS 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_MAESTRO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
 <a href="http://wa.me/5215533827255" target="blank"><img src="https://img.shields.io/badge/𝓡𝓮𝔂_𝓔𝓷𝓭𝔂𝓶𝓲𝓸𝓷-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA A MI MAESTRO 👺🤙🏻 [Aqui](https://www.paypal.me/TheShadowBrokers133)
+
 
 - APOYO AL PROYECTO DE TRADUCCION 👺👌🏼 [Aqui](https://www.paypal.me/AMxScan)
 
