@@ -1,4 +1,4 @@
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ReyEndymion/ANI_MX_SCANS-MD/blob/master/config.js)
+- CAMBIAR NÚMERO DEL OWNER [Aqui]()
 
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
